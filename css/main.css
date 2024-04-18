@@ -31,9 +31,9 @@ justify-content: space-between;
 }
 
 .navbar ul li a{
- text-decoration: none;
+ font-family: Impact;
  text-transform: uppercase;
- color: #800000;
+ color: #2c2a2a;
 
 }
 .navbar ul li::after{
@@ -100,6 +100,7 @@ background-image:url('..//imgs/rroll.png');
     width: 200px;
 }
 .about-img{
+
     width: 200px;
     height: 200px;
     overflow: hidden;
